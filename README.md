@@ -78,7 +78,7 @@
 
 ### 📫 Let's Connect
 
-<a href="http://yuvrajbains.ca/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="http://yuvrajbains.ca/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/yuvrajbains00"><img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/yuviib"><img src="https://img.shields.io/badge/GitHub-10b981?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
