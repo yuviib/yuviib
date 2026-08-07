@@ -62,6 +62,25 @@ if SHARPEN:
     im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=140, threshold=2))
 im = ImageEnhance.Brightness(im).enhance(BRIGHTNESS)
 im = ImageEnhance.Contrast(im).enhance(CONTRAST)
+
+# Crop image to match the physical aspect ratio of the ASCII grid
+target_aspect = (COLS * CELL_W) / (ROWS * CELL_H)
+orig_w, orig_h = im.size
+orig_aspect = orig_w / orig_h
+
+if orig_aspect > target_aspect:
+    new_w = int(orig_h * target_aspect)
+    new_h = orig_h
+else:
+    new_w = orig_w
+    new_h = int(orig_w / target_aspect)
+
+left = (orig_w - new_w) / 2
+top = (orig_h - new_h) / 2
+right = (orig_w + new_w) / 2
+bottom = (orig_h + new_h) / 2
+
+im = im.crop((left, top, right, bottom))
 im = im.resize((COLS, ROWS), Image.LANCZOS)
 px = im.load()
 
