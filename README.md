@@ -24,7 +24,7 @@
 | 🌟 Role / Project | 💻 Tech Stack | 📌 Focus |
 |:---|:---:|:---:|
 | **Incoming SWE @ RBC** | `Python` `LLMs` | Agentic AI & Big Data |
-| **SWE Intern @ Nokia** | `Python` `K8s` | AI Infra & vLLM |
+| **SWE Intern @ Nokia** | `Python` `K8s` | SWE & AI Infra |
 | **RavenMap** | `Python` `LangGraph` | Deterministic AI Agents |
 | **Aura-Grid** | `Python` `Kafka` | Distributed ML |
 | **Resonance** | `PyTorch` `Ruby` | ML Recommendations |
