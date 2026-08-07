@@ -19,15 +19,15 @@
 </td>
 <td width="62%" valign="middle">
 
-### 🚀 Highlights & Experience
+### 🚀 Experience & Projects
 
-| 🌟 Project/Role | 💻 Tech Stack | 📌 Focus |
+| 🌟 Role / Project | 💻 Tech Stack | 📌 Focus |
 |:---|:---:|:---:|
-| **SWE Intern @ Nokia** | `Python` `C++` | Infra / Backend |
-| **Incoming SWE @ RBC** | `Java` `Python` | Enterprise |
-| **RavenMap** | `Python` `LLMs` | AI / Mapping |
-| **Resonance** | `Ruby` `JS` | Web / App |
-| **SWE @ Carleton** | `C++` `Algorithms` | Academics |
+| **Incoming SWE @ RBC** | `Python` `LLMs` | Agentic AI & Big Data |
+| **SWE Intern @ Nokia** | `Python` `K8s` | AI Infra & vLLM |
+| **RavenMap** | `Python` `LangGraph` | Deterministic AI Agents |
+| **Aura-Grid** | `Python` `Kafka` | Distributed ML |
+| **Resonance** | `PyTorch` `Ruby` | ML Recommendations |
 
 <br/>
 
@@ -41,7 +41,21 @@
 
 <div align="center">
 
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,ts,rust,ruby,bash" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,kubernetes,docker,aws,gcp,postgres" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,spring,fastapi,flask,kafka,redis" />
+  </a>
+</p>
+
 <br/><br/>
+
+### 📊 GitHub Streaks
 
 <img src="https://streak-stats.demolab.com?user=yuviib&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
@@ -64,8 +78,9 @@
 
 ### 📫 Let's Connect
 
+<a href="http://yuvrajbains.ca/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/yuvrajbains00"><img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/yuviib"><img src="https://img.shields.io/badge/GitHub-10b981?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/yuviib"><img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
