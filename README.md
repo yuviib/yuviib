@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ✨ Animated Banner ✨ -->
 <picture>
   <img src="./yuviib-banner-v2.svg" alt="Yuvraaj Bains — AI & Software Engineer" width="100%"/>
 </picture>
@@ -13,7 +12,6 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
 <img src="./yuviib-lanyard-v2.svg" alt="Yuvraaj Bains ID badge" width="330"/>
 
 </td>
@@ -61,7 +59,6 @@
 
 <br/><br/>
 
-<!-- 📈 Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuviib&bg_color=0d1117&color=3b82f6&line=10b981&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
