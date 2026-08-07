@@ -29,7 +29,9 @@
 
 <br/>
 
-> ⚡ *"Building scalable backend systems and intelligent AI solutions."*
+<div align="center">
+  <img src="./yuviib-agent-console.svg" alt="Agent Status Console"/>
+</div>
 
 </td>
 </tr>
