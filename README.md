@@ -41,11 +41,6 @@
 
 <div align="center">
 
-### 📊 GitHub Stats & Streaks
-
-<img src="https://github-readme-stats.vercel.app/api?username=yuviib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuviib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="185"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=yuviib&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
@@ -59,7 +54,11 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/yuviib/yuviib/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yuviib/yuviib/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yuviib/yuviib/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <img alt="github contribution grid snake animation" src="https://github.com/yuviib/yuviib/blob/output/github-contribution-grid-snake.svg?raw=true">
+</picture>
 
 <br/><br/>
 
