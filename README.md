@@ -41,23 +41,36 @@
 
 <div align="center">
 
+<table align="center" border="0" width="100%">
+<tr>
+<td width="55%" align="center" valign="top">
+
 ### 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,ts,rust,ruby,bash" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,kubernetes,docker,aws,gcp,postgres" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,spring,fastapi,flask,kafka,redis" />
-  </a>
-</p>
+<br/>
 
-<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,go,ts,rust,ruby,bash" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,postgres,redis" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,kafka" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,fastapi,flask" />
+</a>
+
+</td>
+<td width="45%" align="center" valign="top">
 
 ### 📊 GitHub Streaks
 
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=yuviib&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
