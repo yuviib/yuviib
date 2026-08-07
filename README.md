@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="./yuviib-banner-v2.svg" alt="Yuvraaj Bains — AI & Software Engineer" width="100%"/>
+  <img src="./yuviib-banner-v3.svg" alt="Yuvraj Bains — AI & Software Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -12,7 +12,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./yuviib-lanyard-v2.svg" alt="Yuvraaj Bains ID badge" width="330"/>
+<img src="./yuviib-lanyard-v3.svg" alt="Yuvraj Bains ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
