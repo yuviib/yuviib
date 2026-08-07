@@ -2,7 +2,7 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <img src="./yuviib-banner.svg?v=2" alt="Yuvraaj Bains — AI & Software Engineer" width="100%"/>
+  <img src="./yuviib-banner-v2.svg" alt="Yuvraaj Bains — AI & Software Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -14,7 +14,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./yuviib-lanyard.svg?v=2" alt="Yuvraaj Bains ID badge" width="330"/>
+<img src="./yuviib-lanyard-v2.svg" alt="Yuvraaj Bains ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
